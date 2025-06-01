@@ -32,10 +32,10 @@ A beautifully crafted **React** app to create, edit, and delete notes with state
 
 ## 🧑‍💻 Getting Started
 
-git clone https://github.com/codexayush7/3D-NoteApplication.git
-cd 3D-NoteApplication
-npm install
-npm run dev
+1.git clone https://github.com/codexayush7/3D-NoteApplication.git
+2.cd 3D-NoteApplication
+3.npm install
+4.npm run dev
 
 ---
 
