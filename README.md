@@ -26,7 +26,7 @@ A beautifully crafted **React** app to create, edit, and delete notes with state
 
 ## 🔗 Live Demo
 
-🌍 [Live Demo on Vercel](https://3d-noteapplication.vercel.app)
+🌍 [Live Demo on Vercel](https://3-d-note-application.vercel.app/)
 
 ---
 
